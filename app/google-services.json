@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324016676378",
+    "project_id": "sensor-temperatura-d193c",
+    "storage_bucket": "sensor-temperatura-d193c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324016676378:android:8254a6804de8842f637ba3",
+        "android_client_info": {
+          "package_name": "com.example.gradosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvaK-Xq6o6NHvY02PmYb5OGvnhLbWhrL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
